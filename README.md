@@ -1,7 +1,7 @@
 <h2 align="left">👋 Alanda Amábily</h2>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas — IFPI  
-💡 Focada em desenvolvimento backend e frontend aplicações modernas.
+💡 Focada em desenvolvimento backend e frontend
 
 ---
 
